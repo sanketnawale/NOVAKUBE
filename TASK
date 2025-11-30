@@ -1,0 +1,23 @@
+Title,Body,Labels,Assignees,Milestone
+"Redesign main dashboard","Modern layout, cleaner cluster overview, redesigned resource cards","UI, Branding",,Week 1
+"Create new UI theme","Add new colors, dark/light mode","UI, Branding",,Week 1
+"Custom sidebar layout","Redesign sidebar with better navigation","UI, Branding",,Week 1
+"Better icons and modern fonts","Upgrade icons and fonts across the app","UI, Branding",,Week 1
+"Add branding & replace logo","Replace logo, splash screen, product name","Branding, UI",,Week 1
+"Improve navigation system","Faster cluster switching and cleaner sidebar","UX, Navigation",,Week 2
+"Better resource grouping","Group resources for easy access","UX, Navigation",,Week 2
+"User-friendly modals","Add modals for key actions","UX, Navigation",,Week 2
+"Add cluster wizard & kubeconfig UI improvements","Simplify adding clusters and connecting via kubeconfig","UX, Navigation",,Week 2
+"Improve terminal experience & quick commands","Better shell theme, quick commands panel","UX, Navigation",,Week 2
+"Customizable settings panel","Users can change theme and toggle features","UX, Navigation",,Week 2
+"Cluster Health Summary","Add health score, diagnostics, red/yellow/green indicators","Features, Client Value",,Week 3
+"Namespace Resource Analyzer","Show top resource-consuming namespaces, bar charts","Features, Client Value",,Week 3
+"Pod Event Debugger","One-click event viewer, filter failed pods","Features, Client Value",,Week 3
+"Extensions Panel Cleanup & Custom Tools page","Remove unnecessary extensions, add custom tools","Features, Client Value",,Week 3
+"Performance improvements & smooth scrolling","Optimize loading speed and reduce UI lag","Polish, Demo",,Week 4
+"Create demo mode with fake clusters","Fake cluster with sample data for presentations","Polish, Demo",,Week 4
+"Build installable packages","Build for macOS, Linux, Windows","Polish, Demo",,Week 4
+"Documentation + screenshots","README, feature list, 'What's new' page","Polish, Demo",,Week 4
+"Optional: Login system","Dummy/local auth to simulate SaaS experience","Bonus",,Week 4
+"Optional: Light analytics","Track clusters, pods, warnings per day","Bonus",,Week 4
+"Optional: Theme presets","Professional, Cloud-native, Neon modes","Bonus",,Week 4
